@@ -1,0 +1,13 @@
+{
+	"dependencies": {
+		"ocaml": "4.14.0",
+		"@opam/dune": "3.3.1",
+		"@opam/cohttp": "5.0.0",
+		"@opam/cohttp-lwt-unix": "5.0.0",
+		"@opam/lwt": "5.6.1",
+		"@opam/dream": "*"
+	},
+	"devDependencies": {
+		"@opam/ocaml-lsp-server": "1.12.4"
+	}
+}

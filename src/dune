@@ -1,0 +1,5 @@
+(executable
+  (name main)
+  (libraries cohttp cohttp-lwt-unix lwt dream yojson)
+  )
+
